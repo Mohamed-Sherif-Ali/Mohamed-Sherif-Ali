@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Sherif
 
-<!--
-**Mohamed-Sherif-Ali/Mohamed-Sherif-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Engineering student  
+🔍 Passionate about AI, Embedded Systems, and Secure App Development  
+🌐 Open to Remote Internships & Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**Languages**: Python · C++ · Java  
+**Frameworks**: PyQt5 · Flask · TensorFlow · Keras  
+**Embedded**: ESP32 · Arduino  
+**Tools**: Git · Android Studio · Figma · SQLite
+
+---
+
+## 🚀 Featured Projects
+
+- 🔐 [Secure Password Manager (Multi-User)](https://github.com/Mohamed-Sherif-Ali/secure-password-manager-multiuser)  
+  PyQt5 + AES-GCM encrypted local manager with multi-user login
+
+- 📸 ESP32-CAM Biometric Vehicle Lock  
+  Face + fingerprint recognition system with Flask dashboard
+
+- 🧠 CNN Image Classifier (VGG16 + ResNet50)  
+  Transfer learning model with 96%+ accuracy on Cats vs Dogs
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-sherif456)  
+📧 mohamedshrif456@gmail.com
