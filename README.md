@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Sherif
 
-🎓 Final-year Computer Engineering student  
+🎓 Computer Engineer 
 🔍 Passionate about AI, Embedded Systems, and Secure App Development  
 🌐 Open to Remote Internships & Roles
 
@@ -8,16 +8,15 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Python · C++ · Java  
-**Frameworks**: PyQt5 · Flask · TensorFlow · Keras  
-**Embedded**: ESP32 · Arduino  
-**Tools**: Git · Android Studio · Figma · SQLite
+**Languages**: Python · C++ · Java   
+**Embedded**: ESP32 · Arduino · Pi5
+**Tools**: Git · Android Studio · Figma · SQLite · Visual Studio Code
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔐 [Secure Password Manager (Multi-User)](https://github.com/Mohamed-Sherif-Ali/secure-password-manager-multiuser)  
+- 🔐 Secure Password Manager (Multi-User) 
   PyQt5 + AES-GCM encrypted local manager with multi-user login
 
 - 📸 ESP32-CAM Biometric Vehicle Lock  
@@ -26,7 +25,9 @@
 - 🧠 CNN Image Classifier (VGG16 + ResNet50)  
   Transfer learning model with 96%+ accuracy on Cats vs Dogs
 
----
+- 🧠 Smart Driving & Security System
+  Full-stack AI + IoT automotive safety system that unites Raspberry Pi 5 (vision & decision brain) and ESP32 (real-time motor & sensor controller).
+--- 
 
 ## 📫 Let's Connect
 
