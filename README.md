@@ -62,6 +62,6 @@ An ESP32-based fire-detection prototype that monitors sensor readings and sends 
 
 ## Contact
 
-- [LinkedIn]: www.linkedin.com/in/mohamed-sherif456
+- LinkedIn: www.linkedin.com/in/mohamed-sherif456
 
 - Email: mohamedshrif456@gmail.com
