@@ -36,11 +36,11 @@ A skill-based builder that turns Claude Code into a focused assistant for creati
 
 **Areas:** AI-assisted development, bot generation, automation, TypeScript, Discord, Telegram
 
-### Hooked - Conversational Webhook Builder
+### [Hooked - Conversational Webhook Builder](https://github.com/Mohamed-Sherif-Ali/hooked)
 
-A conversational system for creating and configuring webhooks using natural-language instructions, starting with Discord integrations. Public upload planned.
+A conversational system for creating and configuring Discord automations and webhooks using natural-language instructions.
 
-**Areas:** APIs, webhooks, Discord, automation, conversational interfaces
+**Areas:** Claude Agent SDK, TypeScript, Discord, webhooks, automation, scheduling
 
 ### [DriveSentinel](https://github.com/Mohamed-Sherif-Ali/DriveSentinel)
 
@@ -71,4 +71,3 @@ A transfer-learning image-classification project using VGG16 and ResNet50, with 
 
 - LinkedIn: [linkedin.com/in/mohamed-sherif456](https://www.linkedin.com/in/mohamed-sherif456)
 - Email: mohamedshrif456@gmail.com
-
