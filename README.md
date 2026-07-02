@@ -1,6 +1,6 @@
 # Mohamed Sherif Ali
 
-AI Agents & Automation Engineer Intern building practical LLM applications, automation systems, backend APIs, and deployment-oriented agent workflows.
+AI Agents & Automation Engineer building practical LLM applications, automation systems, backend APIs, and deployment-oriented agent workflows.
 
 I focus on connecting AI models with real business systems: APIs, webhooks, bots, WhatsApp flows, Google Sheets integrations, and safe deployment workflows.
 
